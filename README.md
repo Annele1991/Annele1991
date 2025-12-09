@@ -1,4 +1,5 @@
 ## Hi there 👋
+Passionate professional dedicated to social impact. Skilled in creating and implementing monitoring and evaluation frameworks. Successful academic with strong research capabilities. Eager to contribute to NGOs or companies working for positive change.
 
 <!--
 **Annele1991/Annele1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
