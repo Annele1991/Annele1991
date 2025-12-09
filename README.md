@@ -1,6 +1,7 @@
 ## Hi there 👋
 Passionate professional dedicated to social impact. Skilled in creating and implementing monitoring and evaluation frameworks. Successful academic with strong research capabilities. Eager to contribute to NGOs or companies working for positive change.
-Tech Stack ![Python Icon](URL_del_Icono_Python) ![Stata Icon](URL_del_Icono_Stata) ![SQL Icon](URL_del_Icono_SQL)
+
+Tech Stack ![Python Icon](https://www.python.org/) ![Stata Icon](https://www.stata.com/) 
 <!--
 **Annele1991/Annele1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
