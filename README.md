@@ -28,9 +28,5 @@ Portafolio de proyectos desarrollados durante el bootcamp de ciencia de datos de
 Cubre análisis exploratorio, visualización y modelado con Python.
 Herramientas: Python · Pandas · Matplotlib · Scikit-learn
 
-📬 Contacto
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
 
 "Los datos sin contexto son solo números. Con contexto, son decisiones."Compartir
