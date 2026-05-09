@@ -1,18 +1,36 @@
-## Hi there 👋
-Passionate professional dedicated to social impact. Skilled in creating and implementing monitoring and evaluation frameworks. Successful academic with strong research capabilities. Eager to contribute to NGOs or companies working for positive change.
+Hola, soy Annele Aceves 👋
+M&E Consultant | Data Analyst | Social Impact Professional
+Consultora de Monitoreo y Evaluación con experiencia en análisis de datos para proyectos de impacto social. Apasionada por transformar datos en decisiones que generan cambio real.
 
-Tech Stack_ Python, SQL, STATA, Tableau, PowerBI, Suite google 
-<!--
-**Annele1991/Annele1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔍 Sobre mí
 
-Here are some ideas to get you started:
+🏢 Actualmente: M&E Consultant @ INSAD
+🎯 Especialidad: Evaluación de programas, análisis de paridad de género y políticas públicas
+📊 Me interesa la intersección entre datos, política social y toma de decisiones basada en evidencia
+🌎 Basada en México, con enfoque en proyectos de desarrollo en América Latina
+✍️ Escribo sobre datos y evaluación en Medium
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🛠️ Stack Tecnológico
+Análisis de datos    →  Python · SQL · STATA
+Visualización        →  Tableau · Power BI · Matplotlib
+Entorno de trabajo   →  Jupyter Notebook · Google Suite
+
+📂 Proyectos Destacados
+🗳️ Evaluación de Paridad de Género – Campeche 2024
+Análisis de cumplimiento normativo en las elecciones municipales de Campeche 2024.
+Evalúa la paridad de género mediante procesamiento de datos electorales con Python.
+Herramientas: Python · Pandas · Jupyter Notebook
+Temas: Paridad de género · Evaluación normativa · Datos electorales
+
+📈 Proyectos TripleTen
+Portafolio de proyectos desarrollados durante el bootcamp de ciencia de datos de TripleTen.
+Cubre análisis exploratorio, visualización y modelado con Python.
+Herramientas: Python · Pandas · Matplotlib · Scikit-learn
+
+📬 Contacto
+Mostrar imagen
+Mostrar imagen
+Mostrar imagen
+
+"Los datos sin contexto son solo números. Con contexto, son decisiones."Compartir
